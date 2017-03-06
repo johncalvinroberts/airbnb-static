@@ -1,0 +1,21 @@
+romain:
+  name: Romain
+  flat_picture: card-london.jpeg
+  city: london
+  title: Romain's Home
+  description: Nice flat in piccadilly
+  owner_picture: romain.jpeg
+seb:
+  name: Seb
+  flat_picture: card-paris.jpg
+  city: Paris
+  title: Sebastian's Home
+  description: Sick view of the eiffel tower dog
+  owner_picture: seb.jpg
+anne:
+  name: Anne
+  flat_picture: card-brussels.jpeg
+  city: Brussels
+  title: Anne's Home
+  description: Very belgian things to do
+  owner_picture: anne.jpg
